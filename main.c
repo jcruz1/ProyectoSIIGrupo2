@@ -1,4 +1,4 @@
-//codigo para hecer purbas de como funciona github.
+//codigo para hecer pruebas de como funciona github.
 //programa simple que suma, resta, multiplica, divide, muneros ingresador por pantalla.
 #include <stdio.h>
 #include <stdlib.h>
