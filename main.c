@@ -1,5 +1,6 @@
 //codigo para hecer pruebas de como funciona github.
-//programa simple que suma, resta, multiplica, divide, muneros ingresador por pantalla.
+//programa simple que suma, resta, multiplica y divide numeros ingresador por pantalla.
+
 #include <stdio.h>
 #include <stdlib.h>
 
