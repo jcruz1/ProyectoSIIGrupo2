@@ -16,7 +16,7 @@ int main() {
 	scanf ("%d",&a); 
     printf ("Segundo numero: ");  
 	scanf ("%d",&b); 
-	
+	printf ("-Resultados-")
     sumar(a,b);
 	restar(a,b);
     multiplicar(a,b);
