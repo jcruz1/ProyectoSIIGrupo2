@@ -12,6 +12,7 @@ void restar(int a,int b);
 int main() {
 
     int a,b; 
+	printf("Bienvenido... Ingrese 2 numeros");
     printf ("Primer numero: ");   scanf ("%d",&a); 
     printf ("Segundo numero: ");  scanf ("%d",&b); 
     sumar(a,b);
@@ -24,7 +25,7 @@ int main() {
     return (EXIT_SUCCESS);
 }
 void restar(int a,int b){
-	print("La resta es: %d",a-b);
+	printf("La resta es: %d",a-b);
 }
 void sumar(int a, int b){
      printf ("La suma es: %d",a+b); 
