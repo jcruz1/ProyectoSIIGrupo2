@@ -24,7 +24,7 @@ int main() {
     return (EXIT_SUCCESS);
 }
 void restar(int a,int b){
-	print("La resta es: %d",a-b);
+	printf("La resta es: %d",a-b);
 }
 void sumar(int a, int b){
      printf ("La suma es: %d",a+b); 
