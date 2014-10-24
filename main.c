@@ -39,4 +39,8 @@ void multiplicar(int a, int b){
 	printf("La multiplicación es: %d", a*b);
 }
 
+void mod_funcion(int a, int b){
+	printf("El mod de %d con %d es: %d",a,b,a%b);
+}
+
 
